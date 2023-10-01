@@ -14,3 +14,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 ## Esta es la lista que tienes que modificar
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
+
+- [lgz.md] [prueba-pr-asir/files/lgz.md]
+
