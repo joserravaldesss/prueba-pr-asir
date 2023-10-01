@@ -15,5 +15,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
 
-- [lgz.md](prueba-pr-asir/files/lgz.md)
+- [lgz.md](files/lgz.md)
 
